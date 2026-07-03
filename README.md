@@ -7,7 +7,6 @@ by imitating a pretrained expert policy using supervised learning.
 
 | File | Description |
 |------|-------------|
-| `run_local.ipynb` | Instructor reference notebook — fully working, all code present |
 | `student.ipynb` | Student notebook — key functions blanked out for students to implement |
 | `experts/` | Pretrained SAC expert policy for HalfCheetah-v5 |
 | `requirements.txt` | Python dependencies |
